@@ -17,13 +17,8 @@ menu:
   - identifier: home
     name: Home
     title: Home
-    url: /home/
+    url: /
     weight: 1
-  - identifier: aboutme
-    name: "About Me"
-    title: "About Me"
-    url: /about/
-    weight: 0
 
 
 params:
@@ -54,7 +49,14 @@ params:
     pingback: true
   social:
   - id: github
-    name: gohugoio
+    name: domeeno
+    url: "https://github.com/domeeno"
+  - id: linkedin
+    name: dominic-flocea-227ab3206
+    url: "https://www.linkedin.com/in/dominic-flocea-227ab3206"
+  - id: twitter
+    name: dominic_whtver
+    url: "https://twitter.com/dominic_whtver"
 #  - id: hugo
 #    url: "https://gohugo.io/"
 #    icon: "hugo"

@@ -1,0 +1,4 @@
+[submodule "domeenoblog/public"]
+	path = domeenoblog/public
+	url = git@github.com:domeeno/domeeno.github.io.git
+	branch = main
