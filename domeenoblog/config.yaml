@@ -3,22 +3,28 @@ languageCode: "en-us"
 title: "Dominic Flocea"
 theme: "anubis"
 paginate: 10
-disqusShortname: "yourdiscussshortname"
-googleAnalytics: "G-12345"
+# disqusShortname: "yourdiscussshortname"
+googleAnalytics: "G-YQJJ1EDL8C"
 enableRobotsTXT: true
 
 menu:
   main:
   - identifier: archive
-    name: Blog
-    title: Blogs
-    url: /posts/
-    weight: 2
+    name: "Blog"
+    url: "/posts/"
+    weight: "2"
   - identifier: home
-    name: Home
-    title: Home
-    url: /
-    weight: 1
+    name: "Home"
+    url: "/"
+    weight: "1"
+  - identifier: about
+    name: "About"
+    url: "/about/"
+    weight: "3"
+  - identifier: tags
+    name: "Tags"
+    url: "/tags/"
+    weight: "5"
 
 
 params:
