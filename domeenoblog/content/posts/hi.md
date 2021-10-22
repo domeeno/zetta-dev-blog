@@ -1,6 +1,10 @@
 ---
 title: "Hi People!"
 date: 2021-10-20T00:35:42+03:00
+tags: 
+    - Talk
+    - Blog
+    - Life
 ---
 
 Hi, I'm a software engineer just starting on my path, currently as I'm writing this I haven't even finished my first university cycle, but I'm almost there. I'm excited to start this "Blog" and write about - pretty much anything that makes me feel inspired. I would like to start this out with a quote:
