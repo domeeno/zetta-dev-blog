@@ -2,3 +2,6 @@
 	path = domeenoblog/public
 	url = git@github.com:domeeno/domeeno.github.io.git
 	branch = main
+[submodule "domeenoblog/themes/anubis"]
+	path = domeenoblog/themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
