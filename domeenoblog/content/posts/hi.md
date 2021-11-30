@@ -7,13 +7,13 @@ tags:
     - Life
 ---
 
-Hi, I'm a software engineer just starting on my path, currently as I'm writing this I haven't even finished my first university cycle, but I'm almost there. I'm excited to start this "Blog" and write about - pretty much anything that makes me feel inspired. I would like to start this out with a quote:
-
-
+Hi, I'm a software engineer just starting on my path and, currently as I'm writing this, I haven't even finished my first university cycle, but I'm almost there. I'm excited to start this Blog and write about - pretty much anything that I think a reader could find useful, because it was to me. I would like to start this out with a quote:
 
 > "Sometimes the best way to solves your own problems, is to help someone else."
 >
 > -- <cite>Uncle Iroh</cite>
+
+## Why?
 
 A lot of my inspiration to write comes from the frustrations that I have with a language, framework or frustrations that I generally have as a developer. I do have a lot of them. But we always manage to overcome them, don't we?
 
@@ -22,6 +22,8 @@ Maybe, just maybe, I could help someone out there with their frustrations that t
 <!-- wp:image {"align":"center","id":86,"width":532,"height":352,"sizeSlug":"large","linkDestination":"none"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://cdn.pixabay.com/photo/2014/10/01/10/44/hedgehog-468228_960_720.jpg" alt="" class="wp-image-86" width="532" height="352"/><figcaption>hedgehog pause</figcaption></figure></div>
 <!-- /wp:image -->
+
+## More about me
 
 Although I'm just a student I already had professional experience in the field. I was lucky to find a job that really complimented what I want to do. I was building things from scratch and therefore had experience with many languages and frameworks.
 
@@ -33,4 +35,6 @@ Doing this, I've encountered moments where I was just lost, when I was not findi
 
 And one thing that I also love besides problem solving is to share what I know with others and always help when asked for advice. 
 
-I will keep this blog for you. You, who may need a solution, a case documentation to a particular problem, or you who is just into reading articles and dev rants.
+## Epilogue
+
+I will keep this blog for you. You, who may need a solution, a case documentation to a particular problem, or the ones of you who is just into reading articles and dev rants.
