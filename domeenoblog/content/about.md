@@ -3,7 +3,7 @@ description: "Dominic, full stack engineer"
 author: Dominic Flocea
 ---
 
-<img align="center" alt="SoftwareEngineer" width="400px" src="/images/me.png" />
+<img align="center" alt="me" width="400px" src="/images/me.png" />
 
 <br />
 
