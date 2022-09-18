@@ -5,15 +5,17 @@ draft: false
 ---
 
 
-<i>This is a project is based on building an app in a distributed manner, using the distributed systems principles, building blocks and practices at the best of my understanding and skills. </i>
+<i>This project is based on building an app in a distributed manner, using distributed systems principles, building blocks and practices at the best of my understanding and skill. </i>
 
 <br/>
 
+<img src="https://www.mindmapper.com/wp-content/uploads/2019/01/mind-map-graphic-1024x640.jpg"/>
+
 ## Project Description & Goals (Non Technical)
 
-Imagine a ***medium + udemy presented in a Mind Map manner***. Mind maps are a way to store information on different **subjects** to improve the learning experience through a visually structured hierarchical tree. Subjects are presented from top level views to more advanced topics that are related to each other and grouped between.
+The app will be a ***medium + udemy with Mind Maps***. Mind maps are a way to store information on different **subjects** to improve the learning experience through a visually structured hierarchical tree. Subjects are presented from top level views to more advanced topics that are related to each other and grouped between. The learning sources will be text-based.
 
-**The system will:**
+**The app will:**
 - Structure and Display subjects in a hierarchical manner
 - Keep track of each user's progress on a subject
 - Track course reads and likeability
