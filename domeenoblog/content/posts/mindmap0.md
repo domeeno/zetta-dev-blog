@@ -1,7 +1,7 @@
 ---
 title: "Distributed Systems #0 - General System Architecture"
 date: 2022-09-18T16:19:32+03:00
-draft: false
+draft: true
 ---
 
 
