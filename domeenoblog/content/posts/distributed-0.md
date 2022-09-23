@@ -76,7 +76,6 @@ The functional programming language Elixir incorporates qualities that a well de
 - Load Balancing - distribute requests evenly to the services, based on load.
 - Circuit breaker - it will trip and return a failure response and log it internally
 - Outbound REST API calls
-- Remove a service if a maximum of failed calls is reached
 
 ### - SQL and NoSQL (Back-end)
 
