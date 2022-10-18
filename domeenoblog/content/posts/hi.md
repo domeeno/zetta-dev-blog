@@ -8,7 +8,7 @@ tags:
 
 <br/>
 
-Hi there, How are you doing? Oh, fantastic? you should keep it up, you're doing great and we can see that.
+Hi there, How are you doing? Oh, fantastic? you should keep it up, you're doing great!
 
 Glad you're here, I can tell you something about myself and why I began blogging. I'm a software developer, probably just like you, or maybe not, but for one I'm certain - We learn our whole life and just like you I'm learning new things everywhere I turn, intentionally or unintentionally.
 
