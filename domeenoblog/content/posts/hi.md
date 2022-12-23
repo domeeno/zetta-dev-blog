@@ -54,3 +54,5 @@ Cheers,\
 Yours forever, Software Developer,\
 Flocea Dominic.
 
+[P. S. If you liked the post consider buying me a coffee](https://www.buymeacoffee.com/domeenodev)
+

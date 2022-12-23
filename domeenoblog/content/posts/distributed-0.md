@@ -95,4 +95,4 @@ Kotlin has a powerful Reactive programming API which empowers Responsivness, Res
 The cache service will prevent the services from unnecessary overloading. If we store public information that was accessed before we can store it and not make unnecessary calls to the services through the network - it can save us time and enhance system's performance.
 - Query Language - it will be implemented in <span style="color: #7B6686;">elixir</span> and it will use a DSL to retrieve and store data.
 
-
+[P. S. If you liked the post consider buying me a coffee](https://www.buymeacoffee.com/domeenodev)
