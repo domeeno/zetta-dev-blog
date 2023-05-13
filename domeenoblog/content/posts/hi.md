@@ -6,6 +6,12 @@ tags:
     - Blog
 ---
 
+- [- My Why](#--my-why)
+- [- About the blog](#--about-the-blog)
+- [- Final Thanks](#--final-thanks)
+- [Buy me a coffee](#buy-me-a-coffee)
+
+
 <br/>
 
 Hi there, How are you doing? Oh, fantastic? you should keep it up, you're doing great!
@@ -44,15 +50,17 @@ I really-really want to make using the above:
 
 Terraform, Kubernetes, Docker, Kafka, SQL, NoSQL you name it. I will be using <a href="https://domeeno.github.io/tags/" target="_blank">tags</a> so you can easily find my posts by topic. 
 
-## - Thank you for reading
+## - Final Thanks
 
 If this is the kind of things you're interested in, check out my <a href="https://twitter.com/dominic_whtver" target="_blank">twitter</a> (which you can also find on the top of this page) where I will anounce when I post something.
 
 <br/>
+<br/>
 
 Cheers,\
-Yours forever, Software Developer,\
+Yours forever, good guy Developer,\
 Flocea Dominic.
 
-[P. S. If you liked the post consider buying me a coffee](https://www.buymeacoffee.com/domeenodev)
+## Buy me a coffee
+[P. S. If you liked the post consider buying me a coffee.](https://www.buymeacoffee.com/domeenodev)
 

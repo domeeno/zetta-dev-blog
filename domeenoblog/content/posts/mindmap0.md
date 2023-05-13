@@ -4,6 +4,14 @@ date: 2022-09-18T16:19:32+03:00
 draft: true
 ---
 
+- [Project Description \& Goals (Non Technical)](#project-description--goals-non-technical)
+- [System Architecture](#system-architecture)
+- [Backend communication example:](#backend-communication-example)
+- [Other Technicalities](#other-technicalities)
+  - [Elixir Gateway](#elixir-gateway)
+  - [SQL and NoSQL](#sql-and-nosql)
+  - [Kotlin](#kotlin)
+- [Buy me a coffee](#buy-me-a-coffee)
 
 <i>This project is based on building an app in a distributed manner, using distributed systems principles, building blocks and practices at the best of my understanding and skill. </i>
 
@@ -86,4 +94,15 @@ The functional programming language Elixir incorporates qualities that a well de
 
 ### Kotlin
 Kotlin has a powerful Reactive programming API which empowers Responsivness, Resiliency, Elasticity and is Message Driven - qualities which the system will only benefit from.
+
+
+<br/>
+<br/>
+
+Cheers,\
+Yours forever, good guy Developer,\
+Flocea Dominic.
+
+## Buy me a coffee
+[P. S. If you liked the post consider buying me a coffee.](https://www.buymeacoffee.com/domeenodev)
 

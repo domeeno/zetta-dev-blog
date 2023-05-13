@@ -4,6 +4,15 @@ date: 2022-09-18T16:19:32+03:00
 draft: false
 ---
 
+- [1. Project Description \& Goals (Non Technical)](#1-project-description--goals-non-technical)
+- [2. System Architecture](#2-system-architecture)
+- [3. Backend communication example:](#3-backend-communication-example)
+- [4. Other Technicalities](#4-other-technicalities)
+  - [- Elixir Gateway](#--elixir-gateway)
+  - [- SQL and NoSQL (Back-end)](#--sql-and-nosql-back-end)
+  - [- Kotlin (Back-end)](#--kotlin-back-end)
+  - [- Cache](#--cache)
+- [Buy me a coffee](#buy-me-a-coffee)
 
 <i>This project is based on building an app in a distributed manner, using distributed systems principles, building blocks and practices at the best of my understanding and skill. </i>
 
@@ -95,4 +104,13 @@ Kotlin has a powerful Reactive programming API which empowers Responsivness, Res
 The cache service will prevent the services from unnecessary overloading. If we store public information that was accessed before we can store it and not make unnecessary calls to the services through the network - it can save us time and enhance system's performance.
 - Query Language - it will be implemented in <span style="color: #7B6686;">elixir</span> and it will use a DSL to retrieve and store data.
 
-[P. S. If you liked the post consider buying me a coffee](https://www.buymeacoffee.com/domeenodev)
+<br/>
+<br/>
+
+Cheers,\
+Yours forever, good guy Developer,\
+Flocea Dominic.
+
+## Buy me a coffee
+[P. S. If you liked the post consider buying me a coffee.](https://www.buymeacoffee.com/domeenodev)
+
