@@ -7,8 +7,6 @@ tags: ["kotlin", "programming-languages"]
 
 </br>
 
-
-
 - [📜 Statements](#-statements)
 - [🧮 Expressions](#-expressions)
 - [🧘 The importance of the Expression vs Statement distinction](#-the-importance-of-the-expression-vs-statement-distinction)
@@ -30,7 +28,7 @@ So what is the difference and how is this design choice better than the traditio
 
 ## 📜 Statements
 
-Let's take a look at **Java**'s `if` statement:
+Let's see **Java**'s `if` statement:
 
 ```java
 final double originalPrice = 75.0;
@@ -55,11 +53,11 @@ The `if` code above does a simple check for discount eligibility. If the origina
 
 In other words, the if statement has side effects (change of discountedPrice based on the condition). They change state which can lead to unexpected behavior and bugs.
 
-How is this different from an expression? Well to give you the answer let's take a look at the expressions in Kotlin.
+How is this different from an expression? Well to give you the answer we'll move on to Kotlin's expressions.
 
 ## 🧮 Expressions
 
-Let's take a look at Kotlin's `if` expression:
+Here's a peak at Kotlin's `if` expression:
 
 ```kotlin
 val originalPrice = 75.0
