@@ -1,5 +1,5 @@
 ---
-title: "🌿 Kotlin: No IF statement?!"
+title: "🌿 Kotlin: No IF-ELSE statement?!"
 date: 2023-05-19T16:53:30+03:00
 draft: false
 tags: ["kotlin", "programming-languages"]
