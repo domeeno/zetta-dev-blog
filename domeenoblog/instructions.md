@@ -5,7 +5,10 @@ Install `hugo` CLI.
 Linux:
 
 ```bash
+# ubuntu
 sudo apt install hugo
+# arch
+sudo pacman -S hugo
 ```
 
 On cloning from github:
