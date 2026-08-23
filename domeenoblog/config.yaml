@@ -10,22 +10,30 @@ enableRobotsTXT: true
 
 menu:
   main:
-  - identifier: archive
-    name: "Blog"
-    url: "/posts/"
-    weight: "2"
   - identifier: home
     name: "Home"
     url: "/"
     weight: "1"
+  - identifier: blog 
+    name: "Blog"
+    url: "/posts/"
+    weight: "2"
+  - identifier: project
+    name: "Projects"
+    url: "/projects/"
+    weight: "3"
+  - identifier: archive
+    name: "Archive"
+    url: "/archive/"
+    weight: "4"
   - identifier: about
     name: "About"
     url: "/about/"
-    weight: "3"
+    weight: "5"
   - identifier: tags
     name: "Tags"
     url: "/tags/"
-    weight: "5"
+    weight: "6"
 
 params:
   env: production
