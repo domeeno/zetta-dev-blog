@@ -29,7 +29,7 @@ hugo --gc --logLevel info
 
 echo "✅ Hugo Build complete!"
 
-echo "Committing static generated site (public)"
+echo "Committing static generated site (public)..."
 
 cd public
 
@@ -43,10 +43,11 @@ else
   exit 1
 fi
 
+echo "✅ Committed static generated site (public)"
+
 cd "$ROOT"
 
-echo "Committing parent directory"
-
+echo "Committing parent directory..."
 
 if [[ `git status --porcelain` ]]; then
   git add .
@@ -57,6 +58,8 @@ else
   echo "Publish stopped."
   exit 1
 fi
+
+echo "✅ Committed parent directory"
 
 echo "✅ Published"
 
